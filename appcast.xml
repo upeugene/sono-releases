@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Sono Updates</title>
+        <description>Most recent updates to Sono</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <ul>
+                    <li>Added automatic updates via Sparkle</li>
+                    <li>Bug fixes and performance improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 18 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/upeugene/sono-releases/releases/download/v1.0.0/Sono-1.0.0.zip"
+                sparkle:edSignature="YZcC0ds5Ofxv3hqSCpm8IPBIX+Na4F7J25mWQ2W9u76u6+j+7YnnD2o+8QhRr0DIyv2Qcb7T7yI62/nExtstAg=="
+                length="14678556"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
