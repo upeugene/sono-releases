@@ -5,6 +5,22 @@
         <description>Most recent updates to Sono</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.4</title>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <p>Bug fixes</p>
+            ]]></description>
+            <pubDate>Mon, 26 Jan 2026 21:02:01 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/upeugene/sono-releases/releases/download/v1.0.4/Sono-1.0.4.zip"
+                sparkle:edSignature="fbWJWwnAq0xgnR3nYEmUuQzjFnJ6Jx/I6KocqJLgAYjqY8LS5j22Gm/6G4Q3HL3pbyjeDJb68o9C1qBO+5NIDg=="
+                length="15608498"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.3</title>
             <description><![CDATA[
                 <h2>What's New</h2>
