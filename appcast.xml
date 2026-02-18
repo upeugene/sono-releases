@@ -5,6 +5,22 @@
         <description>Most recent updates to Sono</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.18</title>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <p>Onboarding fix</p>
+            ]]></description>
+            <pubDate>Wed, 18 Feb 2026 09:21:32 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/upeugene/sono-releases/releases/download/v1.0.18/Uter.zip"
+                sparkle:edSignature="geTBCdV6of2wPJeTy9kJHY1Scd4q2DY7PQqCifr5DSiORxseTDj/yklh3cPuZ1JG46ucq+nSHdNSzqDJPbcfCg=="
+                length="17262607"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.17</title>
             <description><![CDATA[
                 <h2>What's New</h2>
