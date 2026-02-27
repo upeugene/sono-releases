@@ -5,6 +5,22 @@
         <description>Most recent updates to Sono</description>
         <language>en</language>
         <item>
+            <title>Version 1.0.21</title>
+            <description><![CDATA[
+                <h2>What's New</h2>
+                <p>Fix prod audio interfaces</p>
+            ]]></description>
+            <pubDate>Fri, 27 Feb 2026 02:04:16 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/upeugene/sono-releases/releases/download/v1.0.21/Uter.zip"
+                sparkle:edSignature="HrUhdwvIUEGu4EnuaoyXldM9+gf66fbbSFa13ipFIgvAZx52p62Dc1/7/pA7wysI/mBNEGmKiBh/w/6INy03Aw=="
+                length="17322752"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.20</title>
             <description><![CDATA[
                 <h2>What's New</h2>
